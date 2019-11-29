@@ -8,6 +8,9 @@ public class DemoJenGApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoJenGApplication.class, args);
+		
+		System.out.println("Hello spring boot Application");
+		
 		System.out.println("Hello spring boot Application");
 	}
 
