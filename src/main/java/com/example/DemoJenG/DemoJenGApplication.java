@@ -10,7 +10,7 @@ public class DemoJenGApplication {
 		SpringApplication.run(DemoJenGApplication.class, args);
 		
 		System.out.println("Hello spring boot Application");
-		
+		System.out.println("Hello spring boot Application");
 		System.out.println("Hello spring boot Application");
 	}
 
